@@ -38,8 +38,8 @@ Game ini dikembangkan sebagai media pembelajaran dan hiburan, dengan fokus pada 
 3. Game ini adalah mode Hardcore dimana pemain hanya diberikan satu kali kesempatan, jika pemain kalah maka tidak ada checkpoint dan permainan kembali dari awal
 
 ## Sumber Asset:
-Character: https://clembod.itch.io/warrior-free-animation-set
-Environment: https://brullov.itch.io/2d-platformer-asset-pack-castle-of-despair
-Skill Tree: https://shikashipx.itch.io/shikashis-fantasy-icons-pack
-VFX: https://nyknck.itch.io/fx071
+- Character: https://clembod.itch.io/warrior-free-animation-set
+- Environment: https://brullov.itch.io/2d-platformer-asset-pack-castle-of-despair
+- Skill Tree: https://shikashipx.itch.io/shikashis-fantasy-icons-pack
+- VFX: https://nyknck.itch.io/fx071
    
