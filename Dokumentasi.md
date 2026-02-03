@@ -22,7 +22,7 @@ Game ini dikembangkan sebagai media pembelajaran dan hiburan, dengan fokus pada 
 
 ## 🛠️ Teknologi yang Digunakan
 - **Game Engine:** Unity 
-- **Bahasa Pemrograman:** (#
+- **Bahasa Pemrograman:** C#
 - **Asset 2D:** Sprite karakter, musuh, dan lingkungan bertema fantasi.
 
 ## 🎮 Cara Bermain
