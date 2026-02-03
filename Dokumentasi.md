@@ -28,12 +28,12 @@ Game ini dikembangkan sebagai media pembelajaran dan hiburan, dengan fokus pada 
 ## 🎮 Cara Bermain
 1. Jalankan game melalui itch.io: https://radhitya-gervany-yahya.itch.io/medieval-fantasy-rpg-2d
 2. Gunakan keyboard untuk menggerakkan karakter.
-   Tombol A, S, D digunakan untuk mengontrol pergerakan.
-   Tombol SPACE digunakan untuk melompat.
-   Tombol L digunakan untuk membuka skill Tree yang bisa memilih skill berdasarkan skill point.
-   Tombol F digunakan untuk memakai skill (harus membuka skill di skill Tree terlebih dahulu untuk menggunakannya).
-   Tombol Q digunakan untuk menangkis seranngan musuh.
-   Tombol SHIFT Kiri digunakan untuk dash (harus membuka skill di skill Tree terlebih dahulu untuk menggunakannya).
-   Klik bagian Kiri Mouse untuk menyerang musuh.
+   - Tombol A, S, D digunakan untuk mengontrol pergerakan.
+   - Tombol SPACE digunakan untuk melompat.
+   - Tombol L digunakan untuk membuka skill Tree yang bisa memilih skill berdasarkan skill point.
+   - Tombol F digunakan untuk memakai skill (harus membuka skill di skill Tree terlebih dahulu untuk menggunakannya).
+   - Tombol Q digunakan untuk menangkis seranngan musuh.
+   - Tombol SHIFT Kiri digunakan untuk dash (harus membuka skill di skill Tree terlebih dahulu untuk menggunakannya).
+   - Klik bagian Kiri Mouse untuk menyerang musuh.
 3. Game ini adalah mode Hardcore dimana pemain hanya diberikan satu kali kesempatan, jika pemain kalah maka tidak ada checkpoint dan permainan kembali dari awal
    
